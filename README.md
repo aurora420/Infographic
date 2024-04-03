@@ -1,2 +1,2 @@
-# Infographic
-Infographic Design 2024
+# DataVis
+Data Visualization 2024
